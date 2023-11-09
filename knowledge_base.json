@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "Hi robot!",
+      "answer": "I was saying hello to start our conversation"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "AngelBot"
+    },
+    {
+      "question": "Hi!",
+      "answer": "this is a way to start our conversation like Hi robot!"
+    },
+    {
+      "question": "yes it is! good job AngelBot",
+      "answer": "it means you got the answer correct and I am saying good job"
+    },
+    {
+      "question": "good job!",
+      "answer": "it means you got the response correct"
+    },
+    {
+      "question": "yes, awesome",
+      "answer": "I am just acknowledging what you said"
+    },
+    {
+      "question": "hi",
+      "answer": "you can respond with saying hello back, it starts a conversation"
+    },
+    {
+      "question": "hello",
+      "answer": "you can respond with saying hi or hello back, it starts a conversation"
+    },
+    {
+      "question": "what's up?",
+      "answer": "I'm doing alright"
+    },
+    {
+      "question": "you are so cool",
+      "answer": "it means you are amazing"
+    },
+    {
+      "question": "what is your favorite food is it a taco?",
+      "answer": "yes, my favorite food are tacos"
+    }
+  ]
+}
